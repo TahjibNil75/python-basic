@@ -1,0 +1,4 @@
+- A class should have only one reason to change. This means one class should handle one job or responsibility.
+- Changes to one part of the code wont affect the others
+- We can easily add new features without touching the existing code
+- Each Part can be tested separately
